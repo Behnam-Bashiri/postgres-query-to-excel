@@ -7,7 +7,7 @@ if __name__ == "__main__":
         "db":"",
         "user":"",
         "password":"",
-        "execute":"",
+        # "execute":"",
         "excelName":""
     }
     for inputUser in key_fetch.keys():
