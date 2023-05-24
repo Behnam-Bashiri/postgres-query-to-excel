@@ -70,3 +70,9 @@ where schemaname = 'public';
     cur.close()
     conn.close()
     print("almost done :)")
+
+    reload = input("are you countinue?(T/F)")
+    if reload =='T':
+        nameFile = input("excelName: ")
+        key['excelName'] = nameFile
+        fetch(key=key)

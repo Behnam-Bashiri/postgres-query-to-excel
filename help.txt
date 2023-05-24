@@ -1,0 +1,39 @@
+run ./start in cmd
+after install enter this value:
+
+host -> 156.253.5.177 
+db-> arzyab
+user-> postgres
+password-> behnam.bashiri.1380@
+excelName-> excel name
+
+
+EX: create report Shiba crypto
+
+0. public.django_migrations
+1. public.django_content_type
+2. public.auth_permission
+3. public.auth_group
+4. public.auth_group_permissions
+5. public.auth_user
+6. public.auth_user_groups
+7. public.auth_user_user_permissions
+8. public.django_admin_log
+9. public.api_dog
+10. public.api_etc
+11. public.api_fil
+12. public.api_sand
+13. public.api_shib
+14. public.api_xlm
+15. public.django_session
+16. public.api_base_crypto
+17. public.api_finder_profit
+
+
+enter table index number(INT): -> 13
+Are you have condition for quety ? (T/F)F
+Are you have JOIN for quety ? (T/F)T
+enter table JOIN index number(INT): ->16
+
+
+
